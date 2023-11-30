@@ -1,7 +1,5 @@
 # API Fastapi + STREAMLIT
 
-Le fichier frontend contient le code streamlit pour l'interface graphique
+The Backend folder contains the FASTAPI architecture and makes the sentiment prediction using a pretrained transformer model.
 
-Le fichier api contient le code de l'api Fastapi qui renvoit les prédictions du modèle `best_model.h5`
-
-
+The Frontend folder contains the streamlit app architecture in which a user input a sentence or paragraph, and the app returns the overall sentiment score.
