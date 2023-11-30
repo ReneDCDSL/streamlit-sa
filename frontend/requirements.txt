@@ -1,0 +1,4 @@
+# frontend/requirements.txt
+streamlit==1.10.0
+requests==2.26.0
+altair==4.1.0
